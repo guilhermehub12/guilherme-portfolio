@@ -1,37 +1,23 @@
 export default [
-   {
-      year: 'Today',
-      title: 'YouTube Content Creator',
-      duration: '6 years',
-      details: 
-         'My humble attempt at building my version of the digital world one step at a time by documenting my coding journey and creating software engineering and computer science content to help those coming behind me.',
-   },
-   {
-		year: 'Today',
-		title: 'Solo Indie Developer',
-		duration: '4 years',
-		details:
-			"I'm a solo indie developer building software for myself and clients to showcase on YouTube. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.",
-	},
-	{
-		year: '2019',
-		title: 'Software Engineer',
-		duration: '2 years',
-		details:
-			'I helped build an enterprise application for a Fortune 500 company in an Agile team setting. Our tech stack consisted of TypeSciprt, Angular, Java, Gradle, and a handful of other languages and tools.',
-	},
-	{
-		year: '2018',
-		title: "Bachelor's Degree in Computer Science",
-		duration: '5 years',
-		details:
-			'I pursued the knowledge that a computer science degree had to offer. I learned about computer architecture, computer science theory, an array of programming, and aspects of artificial intelligence.',
-	},
-	{
-		year: '2013',
-		title: 'First Line of Code',
-		duration: 'the beginning',
-		details:
-			"I wrote my first line of real code that started this journey into digital craftsmanship that I never could've imagined, especially as someone who never saw themselves as anything other than a blue collar worker.",
-	},
-]
+  {
+    year: "06-2022/12-2022",
+    title: "Bolsista - Dev Web",
+    duration: "6 Meses",
+    details:
+      "Realizei implementações e correções com o acompanhamento da liderança, além do apoio ao time na sustentação do software Realizamos a criação de um projeto com o objetivo de automatizar as tarefas e dados de  manifestações recebidas para UrbFor entre poda e corte de árvores. Criação do Banco de Dados e Regras de Negócios com o acompanhamento liderança, usando de Metodologias Ágeis para planejamento de entrega do projeto com Scrum e Kanban. Atuei no time de T.I. para a demanda do desenvolvimento do projeto 'Arboriza' garantindo a Acessibilidade e SEO (HTML/CSS, Javascript, BootStrap, PHP (Laravel), Git, Gitlab).",
+  },
+  {
+    year: "2022",
+    title: "Hackathon Oowlish",
+    duration: "8 horas",
+    details:
+      "O Primeiro Hackathon Oowlish! Um dia cheio de aprendizado, desafios e diversão direto da sede da Oowlish no Porto das Dunas. Os alunos escolhidos participaram de um dia inteiro imerso na cultura Oowlish para concorrer a ingressos para o Oowlish 6.0 no dia 18 de novembro e um computador de última geração para investir na carreira.",
+  },
+  {
+    year: "2022",
+    title: "Hackathon Pmenoslab",
+    duration: "52 horas",
+    details:
+      "Objetivo: Aproximar o paciente que faz uso de medicamentos de uso contínuo do seu tratamento, através do App e do e-commerce Pague Menos , elevando sua possibilidade engajar no seu tratamento, utilizando ferramentas de lembrete de tomar medicação e lembretes de compra dos medicamentos contínuos.",
+  },
+];
